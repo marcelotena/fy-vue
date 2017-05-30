@@ -1,0 +1,17 @@
+{
+    "name": "fy-vue",
+    "version": "1.0.0",
+    "description": "Fast&Yours website 2017.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/marcelotena/fy-vue.git"
+    },
+    "directories": {
+        "doc": "doc"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Marcelo Tena",
+    "license": "ISC"
+}
