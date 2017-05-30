@@ -4,3 +4,6 @@
 .editorconfig
 .gitattributes
 .htaccess
+
+# Ignoring library files
+node_modules/
